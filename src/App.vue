@@ -1,17 +1,22 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+
+    <TextCustom>Lorem ipsum dolor.</TextCustom>
+    <Rectangle></Rectangle>
+    <Rectangle></Rectangle>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Rectangle from './components/Elements/Rectangle';
+import TextCustom from './components/Elements/TextCustom';
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    Rectangle,
+    TextCustom
   }
 }
 </script>
