@@ -1,24 +1,5 @@
-# untitled
+# Mockup builder
 
-## Project setup
-```
-yarn install
-```
+Давно хотел попробовать сделать приложение с drug'n'drop и динамическим изменениями размеров.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
